@@ -35,4 +35,4 @@ This repository is created and maintained by the team and the community of Hexle
 
 See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
-![ci-app-setup](https://github.com/github/docs/actions/workflows/ci-app-setup.yml/badge.svg)
+[![GitHub Actions](https://github.com/chelninecz/hexlet-ci-app/actions/workflows/ci-app-setup.yml/badge.svg)](https://github.com/chelninecz/hexlet-ci-app/actions)
