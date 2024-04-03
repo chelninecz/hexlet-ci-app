@@ -1,4 +1,4 @@
-name: ci-app-setap
+name: ci-app-setup
 on: push
 jobs:
   build:
